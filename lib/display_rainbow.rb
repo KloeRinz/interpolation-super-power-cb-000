@@ -3,4 +3,4 @@ def display_rainbow(colors)
   colors = ['red,' 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 end
 
-colors[1]
+puts colors[1]
