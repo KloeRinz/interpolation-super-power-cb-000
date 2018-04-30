@@ -6,4 +6,4 @@ puts "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{c
 
 end
 
-display_rainbow
+display_rainbow(colors)
